@@ -129,8 +129,32 @@ Author: Localhost.07
 
 # API Key
 
-If you prefer to use your own API key instead of the default key, you can provide it during the setup. If you don't provide an API key, the default key is used, but API calls are limited to 3 per day.
+To obtain an API key for NumVerify (used in your script), follow these steps:
 
+1. Visit NumVerify Website
+
+Go to NumVerify : https://numverify.com/
+
+2. Sign Up
+
+Click on the Sign Up or Get Started button.
+
+Create a free account by entering your email address and setting a password.
+
+
+3. Access API Key
+
+After logging in, you’ll be redirected to the dashboard.
+
+The API key is located in the dashboard under API Key or Access Key. Copy this key.
+
+
+4. Use the API Key
+
+Paste the key into your script where required or enter it when prompted by the tool.
+
+
+That's it! You can now use the API key to access the phone number validation API.
 
 ---
 
