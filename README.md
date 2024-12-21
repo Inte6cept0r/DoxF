@@ -52,8 +52,8 @@ To use DoxF, you need to install the required Python libraries.
 
 Execute the script by running:
 
-    ```bash
-    python doxf.py
+    ```
+    python3 doxf.py
 
 
 2. Enter API Key (Optional):
@@ -91,9 +91,8 @@ Additionally, if you choose to use the default API key, the tool will track your
 
 
 ---
-```
 Example Output
-
+```
 $ python doxf.py
 Enter your API key (leave blank to use default): 
 [+] Using default API key.
@@ -119,7 +118,7 @@ Enter your API key (leave blank to use default):
 Task Completed | 2024-12-21 12:34:56
 Author: Localhost.07
 ============================================================
-
+```
 
 ---
 
