@@ -28,7 +28,7 @@ To use DoxF, you need to install the required Python libraries.
 1. Clone or download the repository :
 
    ```bash
-   https://github.com/Inte6cept0r/DoxF/edit/main/README.md
+   https://github.com/Inte6cept0r/DoxF.git
 
 2. Change the directory
 
