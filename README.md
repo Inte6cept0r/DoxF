@@ -33,8 +33,8 @@ To use DoxF, you need to install the required Python libraries.
 2. Change the directory
 
 
-  ```bash
-  cd DfoX
+   ```bash
+   cd DfoX
 
 4. Install the dependencies using pip:
 
