@@ -136,7 +136,7 @@ If you prefer to use your own API key instead of the default key, you can provid
 
 # File Structure
 
-doxf.py: The main script that runs the tool.
+main.py: The main script that runs the tool.
 
 usage_data.json: Stores the API usage information and tracks the daily limit for the default API key.
 
