@@ -52,8 +52,8 @@ To use DoxF, you need to install the required Python libraries.
 
 Execute the script by running:
 
-    ```
-    python3 doxf.py
+    
+    python3 main.py
 
 
 2. Enter API Key (Optional):
