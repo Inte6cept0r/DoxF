@@ -56,9 +56,11 @@ Execute the script by running:
     python3 main.py
 
 
+
 2. Enter API Key (Optional):
 
 You can enter your own NumVerify API key for real-time phone number validation, or use the default API key provided in the script.
+
 
 
 3. Enter Phone Number:
@@ -68,7 +70,9 @@ Input the phone number you'd like to look up in the following format:
 +1234567890
 
 
+
 4. View Results:
+
 
 The tool will display information like:
 
@@ -83,6 +87,7 @@ Carrier name
 Phone line type (mobile, fixed, VOIP)
 
 International and national number formats
+
 
 
 Additionally, if you choose to use the default API key, the tool will track your usage, limiting you to 3 API calls per day.
