@@ -38,7 +38,8 @@ To use DoxF, you need to install the required Python libraries.
 
 4. Install the dependencies using pip:
 
-pip install requests phonenumbers pyfiglet
+    ```bash
+    pip install requests phonenumbers pyfiglet
 
 
 
@@ -51,7 +52,8 @@ pip install requests phonenumbers pyfiglet
 
 Execute the script by running:
 
-python doxf.py
+    ```bash
+    python doxf.py
 
 
 2. Enter API Key (Optional):
