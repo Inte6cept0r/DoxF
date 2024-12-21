@@ -57,9 +57,13 @@ Execute the script by running:
 
 
 
+
+
 2. Enter API Key (Optional):
 
 You can enter your own NumVerify API key for real-time phone number validation, or use the default API key provided in the script.
+
+
 
 
 
@@ -71,22 +75,25 @@ Input the phone number you'd like to look up in the following format:
 
 
 
+
+
 4. View Results:
 
 
 The tool will display information like:
 
-Validation status (valid/invalid)
 
-Country/region
+• Validation status (valid/invalid)
 
-Timezones and UTC offsets
+• Country/region
 
-Carrier name
+• Timezones and UTC offsets
 
-Phone line type (mobile, fixed, VOIP)
+• Carrier name
 
-International and national number formats
+• Phone line type (mobile, fixed, VOIP)
+
+• International and national number formats
 
 
 
