@@ -105,7 +105,7 @@ Additionally, if you choose to use the default API key, the tool will track your
 ---
 Example Output
 ```
-$ python doxf.py
+$ python main.py
 Enter your API key (leave blank to use default): 
 [+] Using default API key.
 [+] Performing Validation and Lookup...
