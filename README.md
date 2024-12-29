@@ -42,7 +42,7 @@ To use DoxF, you need to install the required Python libraries.
 
     ```bash
     pip install requests phonenumbers pyfiglet
-
+    ```
 
 
 
