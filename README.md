@@ -136,7 +136,7 @@ Author: Localhost.07
 
 # API Key
 
-To obtain an API key for NumVerify (used in your script), follow these steps:
+To obtain an API key for NumVerify (used in script), follow these steps:
 
 1. Visit NumVerify Website
 
