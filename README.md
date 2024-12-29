@@ -1,5 +1,7 @@
 ### DoxF - Phone Number Information Lookup Tool
 
+![DoxF](https://github.com/user-attachments/assets/32c440e3-16fa-45f4-ae9b-dc95e9bd6a9f)
+
 DoxF is a Python-based command-line tool designed to validate and retrieve detailed information about phone numbers. It can perform offline validation, fetch real-time data from external APIs, and display a variety of details such as the phone number's country, carrier, line type, timezones, and more. This tool is useful for verifying phone numbers and gathering related metadata for security, research, or general information purposes.
 
 
